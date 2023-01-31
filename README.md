@@ -8,3 +8,21 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 <p align="center">
   <img src="https://video.udacity-data.com/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg" width = 500px; height =300px;\>
 </p>
+
+### Project Steps Overview
+Your tasks in this project are as follows:
+
+Step 1: Gathering data
+
+Step 2: Assessing data
+
+Step 3: Cleaning data
+
+Step 4: Storing data
+
+Step 5: Analyzing, and visualizing data
+
+Step 6: Reporting
+
+your data wrangling efforts
+your data analyses and visualizations

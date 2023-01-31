@@ -1,6 +1,6 @@
 # Wrangle and Analyze Data
 
-<img src="https://miro.medium.com/max/3840/1*y1WLF1Y7b7n6jCy7gOixBA.png" width=70% height=50%>
+
 
 
 ### Project Overview <a name="project_overview"></a>

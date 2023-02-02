@@ -32,7 +32,7 @@ Step 6: Reporting
 your data wrangling efforts
 your data analyses and visualizations
 
-<img src="https://miro.medium.com/max/3840/1*y1WLF1Y7b7n6jCy7gOixBA.png" width=70% height=50%>
+
 
 ### Project Files
 

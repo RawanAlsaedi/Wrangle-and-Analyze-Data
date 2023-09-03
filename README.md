@@ -22,7 +22,7 @@ The tweet image predictions, i.e., what breed of dog (or other object, animal, e
 - [tweet_json.txt](https://github.com/RawanAlsaedi/Wrangle-and-Analyze-Data/blob/main/tweet-json2.txt):
 File constructed via API.
 
-- [twitter-api.py.txt](https://github.com/RawanAlsaedi/Wrangle-and-Analyze-Data/blob/main/tweet-json2.txt):
+- [twitter-api.py.txt](https://github.com/RawanAlsaedi/Wrangle-and-Analyze-Data/blob/main/twitter-api.py.txt):
 To download tweets with API.
 
 - [twitter_archive_master.csv](https://github.com/RawanAlsaedi/Wrangle-and-Analyze-Data/blob/main/twitter_archive_master.csv):

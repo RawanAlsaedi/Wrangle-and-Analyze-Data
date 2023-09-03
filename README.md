@@ -40,3 +40,7 @@ import tweepy
 import json
 import matplotlib.pyplot as plt
 ```
+
+## Notes
+
+- This project was developed using **_Jupyter_ _Notebook_**

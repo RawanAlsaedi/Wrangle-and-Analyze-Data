@@ -43,4 +43,4 @@ import matplotlib.pyplot as plt
 
 ## Notes
 
-- This project was developed using **_Jupyter_ _Notebook_**
+- This project was developed using **_Jupyter_ _Notebook_**.
